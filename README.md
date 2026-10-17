@@ -3,9 +3,9 @@
 Este es un avance **funcional pero no final**, preparado para la asesoría del profesor.
 
 ## Archivos
-- `Grupo5_Notebook1_Manual_AVANCE.ipynb`: implementación manual con NumPy, 15 puntos de prueba y gráfico. Está pendiente la comparación contra scikit-learn.
-- `Grupo5_Notebook2_Librerias_AVANCE.ipynb`: scikit-learn con Iris (150 registros), preprocesamiento, primer entrenamiento, inercia y gráfico. Está pendiente análisis exploratorio profundo y Silhouette Score.
-- `Grupo5_Dataset_Iris.csv`: dataset de 150 registros para adjuntar a la actividad.
+- `Manual`: implementación manual con NumPy, 15 puntos de prueba y gráfico. Está pendiente la comparación contra scikit-learn.
+- `Librerias`: scikit-learn con Iris (150 registros), preprocesamiento, primer entrenamiento, inercia y gráfico. Está pendiente análisis exploratorio profundo y Silhouette Score.
+- `Dataset_Iris.csv`: dataset de 150 registros para adjuntar a la actividad.
 
 ## Cómo abrirlos y probarlos
 1. Ve a https://colab.research.google.com/
